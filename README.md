@@ -56,13 +56,9 @@
 | [Tooltip](https://github.com/liangjingkanji/Tooltip)         | Toast(吐司)BubbleDialog(菊花加载框) <img src="https://jitpack.io/v/liangjingkanji/Tooltip.svg"/> ![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/tooltip?style=social) |
 | [debugKit](https://github.com/liangjingkanji/debugkit)       | 开发调试悬浮窗口工具 <img src="https://jitpack.io/v/liangjingkanji/debugkit.svg"/> ![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/tooltip?style=social) |
 | [LogCat](https://github.com/liangjingkanji/LogCat)           | 日志输出工具 <img src="https://jitpack.io/v/liangjingkanji/LogCat.svg"/> ![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/logcat?style=social) |
-| [Engine](https://github.com/liangjingkanji/Engine)           | 支持快速开发的基础库 <img src="https://jitpack.io/v/liangjingkanji/Engine.svg"/> ![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/engine?style=social) |
-| [AutoDispose](https://github.com/liangjingkanji/AutoDispose) | 一个函数自动解绑RxJava订阅, 比RxLifeCycle更简单 <img src="https://jitpack.io/v/liangjingkanji/AutoDispose.svg"/>             |
-| [RxBus](https://github.com/liangjingkanji/RxBus)             | 支持 标签事件/线程切换/kotlin特性/无需注册注销 的 RxBus  <img src="https://jitpack.io/v/liangjingkanji/RxBus.svg"/>    |
+| [Engine](https://github.com/liangjingkanji/Engine)           | 快速开发基础库 <img src="https://jitpack.io/v/liangjingkanji/Engine.svg"/> ![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/engine?style=social) |
 | [SougouSkin](https://github.com/liangjingkanji/SougouSkin)   | 简约的搜狗输入法皮肤                                         |
-| [DarculaXcodeTheme](https://github.com/liangjingkanji/DarculaXcodeTheme) | Xcode的Darcula主题                                           |
-| [AxureMobileLibrary](https://github.com/liangjingkanji/AxureMobileLibrary) | Axure移动端低保真交互式元件库                                         |
-| [简历模板](https://github.com/liangjingkanji/Resume-Template) | 快速生成简洁的个人简历(部署在线简历). [在线预览](https://liangjingkanji.github.io/Resume-Template/) |
+| [简历模板](https://github.com/liangjingkanji/Resume-Template) | 快速生成简洁的个人简历(部署在线简历) [在线预览](https://liangjingkanji.github.io/Resume-Template/) |
 | [PTCode](https://github.com/liangjingkanji/PTCode)           | 为PT Mono添加连字特性(Ligatures)    |
 | [PlexMono](https://github.com/liangjingkanji/PlexMono)       | 为[ibm-plex](https://github.com/IBM/plex)添加连字特性(Ligatures)        |
 | [cascadia-code-patch](https://github.com/liangjingkanji/cascadia-code-patch) | 修改[cascadia-code](https://github.com/microsoft/cascadia-code)字符                                         |
