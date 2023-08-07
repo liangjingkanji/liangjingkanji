@@ -32,7 +32,6 @@
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/GitHub-大乘老祖-brightgreen"/>
-<img src="https://visitor-badge.glitch.me/badge?page_id=liangjingkanji.liangjingkanji"/>
 <img src="https://img.shields.io/badge/language-kotlin-orange.svg"/>
 <img src="https://img.shields.io/badge/license-Apache-blue"/>
 <img src="https://raw.githubusercontent.com/liangjingkanji/liangjingkanji/master/img/group.svg"/>
