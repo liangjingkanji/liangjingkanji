@@ -1,5 +1,5 @@
 <h1 align="center">
-如果你需要请star, 我会根据star决定优先级 &nbsp;&nbsp;&nbsp;
+原来你也玩原神啊? &nbsp;&nbsp;&nbsp;
 </h1>
 
 <p align="center">
