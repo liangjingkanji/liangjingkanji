@@ -1,5 +1,5 @@
 <h1 align="center">
-原来你也玩原神啊? &nbsp;&nbsp;&nbsp;
+因为你的摆烂和努力都不够纯粹, 所以你痛苦 &nbsp;&nbsp;&nbsp;
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/21078112/163754171-0e917f6d-22e9-4add-8705-b664d12949a6.gif" width="30%" />
 </p>
 <h3 align="center">
-原神, 启动!
+看不到未来, 回不到过去
 </h3>
 
 <br>
@@ -24,10 +24,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=liangjingkanji&count_private=true" width="450"/>
 </p>
 <br>
-
-<p align="center">
-<strong>一个人的技术是有限的</strong>
-</p>
 
 <br>
 <p align="center">
