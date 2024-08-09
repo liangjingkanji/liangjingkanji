@@ -1,5 +1,5 @@
 <h1 align="center">
-因为你的摆烂和努力都不够纯粹, 所以你痛苦 &nbsp;&nbsp;&nbsp;
+我写代码没有技巧, 全是感情 &nbsp;&nbsp;&nbsp;
 </h1>
 
 <p align="center">
